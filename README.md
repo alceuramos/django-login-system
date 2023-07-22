@@ -1,6 +1,6 @@
 # Login System
 
-Ester é um exemplo simples de sistema de login utilizando Django
+Este é um exemplo simples de sistema de login utilizando Django.
 
 ```bash
 python3 -m venv .venv
