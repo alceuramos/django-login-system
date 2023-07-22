@@ -1,0 +1,4 @@
+django
+whitenoise
+django-environ
+python-dotenv

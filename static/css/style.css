@@ -1,0 +1,12 @@
+body {
+    background-color: #ddd;
+    position: relative;
+    width: 100%;
+
+  }
+.content {
+    background-color: #eee;
+    position: absolute;
+ 
+    left: 25%;
+}
